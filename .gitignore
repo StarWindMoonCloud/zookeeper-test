@@ -1,0 +1,21 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+target/
+.classpath
+.project
+.settings
+test-output/
+
+# Project Files #
+*.idea/
+*.iml
+
+# tmp files
+*~
+
+# hidden file/directory
+.*
+
